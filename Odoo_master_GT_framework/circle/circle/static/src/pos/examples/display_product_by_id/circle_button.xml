@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates id="template" xml:space="preserve">
+    <t t-name="displayProductByIdBtn"  owl="1">
+        <div class="control-button" t-on-click="showFavProduct" >
+            <i class="fa fa-circle" />
+            <span> </span>
+            <span> To see bootstrap integrated </span>
+        </div>
+    </t>
+
+</templates>
