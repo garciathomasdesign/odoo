@@ -1,0 +1,38 @@
+
+// here is the total look of pos  defined , in circle the  .pos . leftpane  order you can switch
+
+
+.pos .pos-logo {
+  height: 100%;
+  margin-left: -4px;
+  margin-right: auto;
+  align-self: center;
+}
+
+.pos .pos-topheader {
+  background: #B95407;
+  color: black !important;
+}
+
+.pos .order{
+background: #d7d4b3;
+}
+
+
+// ___________________________________________________
+// Custom pane order in circle
+// __________________________________________________
+
+.pos .leftpane{
+
+order:1
+}
+
+.pos .rightpane{
+
+order:2
+}
+
+// __________________________________________________________
+// End Custom pane
+// _________________________________________________________
